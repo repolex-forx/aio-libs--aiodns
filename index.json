@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aiodns",
+  "versions": [
+    {
+      "commit": "ff43a83ea57e195e56af73b9bafe6a9dbc2d6e18",
+      "tag": "",
+      "parsed_at": "2026-10-10T16:06:54.697912+00:00"
+    }
+  ]
+}
